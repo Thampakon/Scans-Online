@@ -1,9 +1,9 @@
 ## 3 อันดับเว็บสำหรับสแกนช่องโหว่
-**1.[hostedscan](https://hostedscan.com/)**
+**1.[hostedscan](https://hostedscan.com/) - เป็นบริการสแกนความปลอดภัยแบบ SaaS ที่ใช้งานง่ายและรวดเร็ว เหมาะสำหรับผู้เริ่มต้นที่ต้องการทดสอบความปลอดภัยของเว็บไซต์หรือแอปพลิเคชัน**
 
-**2.[pentest-tools](https://pentest-tools.com/)**
+**2.[pentest-tools](https://pentest-tools.com/) -  เป็นเว็บไซต์ที่รวบรวมเครื่องมือการทดสอบความปลอดภัยมากมาย เหมาะสำหรับผู้ที่ต้องการทดสอบความปลอดภัยอย่างละเอียด**
 
-**3.[hackertarget](https://hackertarget.com/openvas-scan/)**
+**3.[hackertarget](https://hackertarget.com/openvas-scan/) - เป็นเว็บไซต์ที่ให้บริการทดสอบความปลอดภัยแบบครบวงจร เหมาะสำหรับผู้ที่ต้องการทดสอบความปลอดภัยหลายประเภท**
 
 ## 3 เว็บสำหรับใช้ Email ฟรี
 **1.[temp-mail](https://temp-mail.org/en/10minutemail)**
